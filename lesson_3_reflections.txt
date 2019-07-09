@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	for colaborating without git or github i would have to copy the data again and again after making changes and i will have to do all the work manually like deciding which file to keep what changes were made and it would be really hard to do that.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	i would like to do this when i am working on a seperate logic then being worked on master like adding color to game components while the master branch is still dealing with levelups etc.
